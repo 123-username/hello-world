@@ -2,4 +2,9 @@
 
 first repository v1.0
 
-``` # code ```
+``` from documentation import code
+     from stackoverflow import *
+
+     code.write("hello-world")     
+
+```
